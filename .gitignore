@@ -38,4 +38,4 @@ lerna-debug.log*
 *.local
 
 # Vercel
-.vercel
+.vercel/
